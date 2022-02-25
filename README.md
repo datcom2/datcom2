@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**datcom2/datcom2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!-- **datcom2/datcom2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on multicampus
 - 🌱 I’m currently learning [Python, SQL, Git, ML, DL]
